@@ -2,4 +2,4 @@
 .conf
 bin/*
 
-
+.DS_Store
