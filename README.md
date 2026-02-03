@@ -1,5 +1,7 @@
 # Montyll-PiM: a Processing-in-Memory implementation of Montyll
 
+![montyll architecture](montyll-pim-illustration.png "Montyll-PiM")
+
 Montyll is a novel Thousand Brains System ([code](https://github.com/Xavier0301/cmontyll)) integrating elements of low-level neocortical processing e.g. accurate neuron models [^1][^2] and grid cells to represent location [^3][^4]. Montyll was explicitly designed to be aligned with the long term goals of the Thousand Brains Project ([website](https://thousandbrains.org), [paper](https://arxiv.org/abs/2412.18354)). 
 
 We provide the first implementation of a Thousand Brains System on a Processing-in-Memory architecture. In particular, we use the UPMEM PiM architecture. This repository contains 
